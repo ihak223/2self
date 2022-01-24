@@ -42,7 +42,7 @@ Subtracts data from target of *DP*.<br>
 **`6`**:<br>
 Reads from IO and writes to target of *DP*.<br>
 **`7`**:<br>
-Writes to IO from target of *DP*.<br>
+Writes to IO from data.<br>
 **`8`**:<br>
 Loads from *OP* to *OP*+data to subtape.<br>
 **`9`**:<br>
