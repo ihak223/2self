@@ -59,3 +59,6 @@ Sets JP to data.<br>
 Reads from cache to data.<br>
 **`f`**:<br>
 Writes data to cache.<br>
+## 2ROMs
+2ROMs are "compiled" 2self scripts there are 4 types of ROMs: *SROM* or Static ROM for saved programs and references, *DROM* or Dynamic ROM what script is loaded in as be default, *CROM* or Compressed Static ROM for also saved programs, *OP Tape* or Operation tape, is used to load in referces.
+### 
