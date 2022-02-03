@@ -28,9 +28,9 @@ The Data Pointer targets the current data, all read/write operations go
 Instructions have to hexadecimal parts, the first character being the command, the second character being the data/argument.
 ### **Commands**
 >**`0`**:<br>
-Move the *OP* by the data amount.<br>
+Set the *OP* by the data amount.<br>
 **`1`**:<br>
-Move the *DP* by the data amount.<br>
+Set the *DP* by the data amount.<br>
 **`2`**:<br>
 Writes the data to the target of the *DP*.<br>
 **`3`**:<br>
